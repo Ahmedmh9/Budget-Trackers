@@ -21,7 +21,7 @@ Required dependencies to be installed for application functionality: npm i
 ## Usage
 
 ## Mock
-  ![mock!](./assets/img/download-icon.PNG)
+  ![mock!](./assets/img/download-icon.png)
 ## License
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
